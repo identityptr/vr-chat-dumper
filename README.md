@@ -19,3 +19,4 @@ Or provide the VRChat and output directories:
 ```sh
 ./bin/vrchat "/path/to/VRChat" "/path/to/output"
 ```
+any issues feel free to dm on discord @identityptr
